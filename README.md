@@ -11,4 +11,4 @@ Projeto feito no curso do modulo canil
 
 ### Para rodar
 
-` npm run dev`
+` npm run start-dev`
